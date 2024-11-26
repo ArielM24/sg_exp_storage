@@ -2,7 +2,7 @@
 
 # Synchro Games Experience Storage
 
-A simple mod to storage and recover experience using glass bottles
+A simple mod to storage and recover experience using glass bottles, the bottles store and recover 30 experience points (not levels)
 
 ### Instalation
 
