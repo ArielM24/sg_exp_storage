@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.sg.exp_storage.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
