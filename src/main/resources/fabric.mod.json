@@ -8,11 +8,11 @@
 		"ArielM24"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/ArielM24/sg_exp_storage",
+		"sources": "https://github.com/ArielM24/sg_exp_storage"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sg_exp_storage/icon.png",
+	"icon": "assets/sg_exp_storage/sg_exp_storage_icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
