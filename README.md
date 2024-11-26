@@ -3,6 +3,9 @@
 # Synchro Games Experience Storage
 
 A simple mod to storage and recover experience using glass bottles, the bottles store and recover 30 experience points (not levels)
+To store experience right click on an enchanting table with an empty glass bottle (you need at least 30 experience points)
+To restore experience just right click an experience bottle 
+This mod increases the experience granted by experience bottles to 30 points (the regular average is 7)
 
 ### Instalation
 
