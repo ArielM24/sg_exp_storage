@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
 	"id": "sg_exp_storage",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "sg_exp_storage",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Simple mod to storage experience using enchanting bottles",
 	"authors": [
-		"Me!"
+		"ArielM24"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.sg.exp_storage.Sg_exp_storage"
+			"com.sg.exp_storage.SGExpStorage"
 		],
 		"client": [
-			"com.sg.exp_storage.Sg_exp_storageClient"
+			"com.sg.exp_storage.SGExpStorageClient"
 		]
 	},
 	"depends": {
