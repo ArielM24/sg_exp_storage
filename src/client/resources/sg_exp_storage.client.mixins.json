@@ -1,11 +1,10 @@
 {
-	"required": true,
+	"required": false,
 	"package": "com.sg.exp_storage.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
 	],
 	"injectors": {
-		"defaultRequire": 1
+		"defaultRequire": 0
 	}
 }

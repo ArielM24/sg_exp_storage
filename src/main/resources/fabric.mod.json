@@ -22,13 +22,6 @@
 			"com.sg.exp_storage.Sg_exp_storageClient"
 		]
 	},
-	"mixins": [
-		"sg_exp_storage.mixins.json",
-		{
-			"config": "sg_exp_storage.client.mixins.json",
-			"environment": "client"
-		}
-	],
 	"depends": {
 		"fabricloader": ">=0.16.9",
 		"minecraft": "~1.21.3",
