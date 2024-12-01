@@ -15,7 +15,7 @@ public class StoreExpEvent {
 			String interactingBlockName = world.getBlockState(result.getBlockPos()).getBlock().getName().getString();
 			boolean isUsingEmptyBlottle = itemInHand.getItem().getName().getString().equals(Items.GLASS_BOTTLE.getName().getString());
 			boolean isInteractingWithEnchantingTable = interactingBlockName.equals(Blocks.ENCHANTING_TABLE.getName().getString());
-			boolean hasEnoughExperience = player.getScore() >= SGExpStorage.EXPERIENCE_PER_BOTTLE;
+			boolean hasEnoughExperience = (player.totalExperience >= SGExpStorage.EXPERIENCE_PER_BOTTLE);
 			if(isUsingEmptyBlottle && isInteractingWithEnchantingTable && hasEnoughExperience){
 				player.getStackInHand(hand).setCount(itemInHand.getCount() - 1);
 				player.addExperience(-SGExpStorage.EXPERIENCE_PER_BOTTLE);
