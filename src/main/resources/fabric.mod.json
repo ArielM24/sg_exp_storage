@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "sg_exp_storage",
 	"version": "1.21.6",
-	"name": "sg_exp_storage",
+	"name": "SG Exp Storage",
 	"description": "Simple mod to storage experience using enchanting bottles",
 	"authors": [
 		"ArielM24"
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/ArielM24/sg_exp_storage"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sg_exp_storage/sg_exp_storage_icon.png",
+	"icon": "assets/sg_exp_storage/sg-exp-storage.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
