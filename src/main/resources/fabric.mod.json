@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "sg_exp_storage",
-	"version": "1.21.6",
+	"version": "${version}",
 	"name": "SG Exp Storage",
 	"description": "Simple mod to storage experience using enchanting bottles",
 	"authors": [
